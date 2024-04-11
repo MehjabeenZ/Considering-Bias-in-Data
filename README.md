@@ -1,10 +1,10 @@
-# Homework 2: Considering Bias in Data
+# onsidering Bias in Data
 
-This repository contains the data files, code and results of Homework 2, for the course Data 512: Human Centered Data Science at the University of Washington's MS in Data Science program. 
+This repository contains the data files, code and results of this project.
 
 ## Goal of Assignment
 
-The goal of this assignment is to explore the concept of bias in data using Wikipedia articles.
+The goal of this project is to explore the concept of bias in data using Wikipedia articles.
 
 ## Resources Used
 - Editor used: VS Code
