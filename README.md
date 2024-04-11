@@ -1,8 +1,8 @@
-# onsidering Bias in Data
+# Considering Bias in Data
 
 This repository contains the data files, code and results of this project.
 
-## Goal of Assignment
+## Goal of Project
 
 The goal of this project is to explore the concept of bias in data using Wikipedia articles.
 
